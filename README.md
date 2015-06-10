@@ -6,7 +6,7 @@ This will let you generate a CSV file based on the information from an HTML tabl
 
 ## USAGE
 
-Just make sure to include jQuery of course and create some anchor that has a class of 'csv-download'
+Just make sure to include jQuery of course and create some button that has a class of 'csv-download'
 You will want to change line 32 and replace #mytable with the id of your table
 
 ```
